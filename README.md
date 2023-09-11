@@ -5,7 +5,7 @@ GitHub Profile when the Open GitHub Button is clicked.
 
 # Visuals 
 - This is the main activity of this application.
-- Showing the use of textviews and a button to achieve this UI.
+- Showing the use of an imageView, textViews and a buttonView to achieve this UI below.
 
 ![2023-09-11 01-30-40 High Res Screenshot](https://github.com/ObinnaAkuma/Profile_App/assets/25484571/39745db9-7065-45da-96c7-2eab96b5edaf)
 
